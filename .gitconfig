@@ -1,0 +1,10 @@
+[core]
+	editor = nano
+[user]
+	name = Ari Shoham
+	email = arishoham@users.noreply.github.com
+[pager]
+	branch = false
+[init]
+	templatedir = ~/.git-templates
+	defaultBranch = main
